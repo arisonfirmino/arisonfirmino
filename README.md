@@ -3,6 +3,7 @@
 <div align="center">
 
 <a href="https://www.instagram.com/arisonfirmino/"><img src="https://img.shields.io/badge/-@arisonfirmino-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
+<a href="https://arisonfirmino.github.io/portfolio"><img src="https://img.shields.io/badge/-PORTFOLIO ONLINE-21222c?logo=proton&logoColor=white&style=for-the-badge" /></a>
 <a href="mailto:arisonfirmino@hotmail.com"><img src="https://img.shields.io/badge/-arisonfirmino@hotmail.com-0078D4?logo=microsoftoutlook&logoColor=white&style=for-the-badge" /></a>
 
 </div>
@@ -17,6 +18,7 @@
 ![React](https://img.shields.io/badge/-REACT-21222c?logo=react&logoColor=61DAFB&style=for-the-badge)
 ![React Native](https://img.shields.io/badge/-REACT%20Native-21222c?logo=react&logoColor=61DAFB&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-21222c?logo=typescript&logoColor=3178C6&style=for-the-badge)
+![Next JS](https://img.shields.io/badge/-NEXT.JS-21222c?logo=nextdotjs&logoColor=000000&style=for-the-badge)
 
 #### ⚙️ Back-End and Database:
 

@@ -4,7 +4,7 @@
 
 <a href="https://www.instagram.com/arisonfirmino/"><img src="https://img.shields.io/badge/-@arisonfirmino-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
 <a href="https://arisonfirmino.github.io/reactfolio"><img src="https://img.shields.io/badge/-PORTFOLIO ONLINE-21222c?logo=proton&logoColor=white&style=for-the-badge" /></a>
-<a href="mailto:arisonfirmino@hotmail.com"><img src="https://img.shields.io/badge/-arisonfirmino.dev@gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+<a href="mailto:arisonfirmino.dev@gmail.com"><img src="https://img.shields.io/badge/-arisonfirmino.dev@gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 
 </div>
 
@@ -16,7 +16,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-21222c?logo=css3&logoColor=1572B6&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-21222c?logo=javascript&logoColor=F7DF1E&style=for-the-badge)
 ![React](https://img.shields.io/badge/-REACT-21222c?logo=react&logoColor=61DAFB&style=for-the-badge)
-![React Native](https://img.shields.io/badge/-REACT%20Native-21222c?logo=react&logoColor=61DAFB&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-21222c?logo=typescript&logoColor=3178C6&style=for-the-badge)
 ![Next JS](https://img.shields.io/badge/-NEXT.JS-21222c?logo=nextdotjs&logoColor=000000&style=for-the-badge)
 

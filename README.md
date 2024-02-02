@@ -3,8 +3,8 @@
 <div align="center">
 
 <a href="https://www.instagram.com/arisonfirmino/"><img src="https://img.shields.io/badge/-@arisonfirmino-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
-<a href="https://arisonfirmino.github.io/portfolio"><img src="https://img.shields.io/badge/-PORTFOLIO ONLINE-21222c?logo=proton&logoColor=white&style=for-the-badge" /></a>
-<a href="mailto:arisonfirmino@hotmail.com"><img src="https://img.shields.io/badge/-arisonfirmino@hotmail.com-0078D4?logo=microsoftoutlook&logoColor=white&style=for-the-badge" /></a>
+<a href="https://arisonfirmino.github.io/reactfolio"><img src="https://img.shields.io/badge/-PORTFOLIO ONLINE-21222c?logo=proton&logoColor=white&style=for-the-badge" /></a>
+<a href="mailto:arisonfirmino@hotmail.com"><img src="https://img.shields.io/badge/-arisonfirmino.dev@gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 
 </div>
 

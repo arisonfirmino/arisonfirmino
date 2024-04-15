@@ -1,13 +1,5 @@
 # Hi there! I'm Arison 👋🏽
 
-<div align="center">
-
-<a href="https://www.instagram.com/arisonfirmino/"><img src="https://img.shields.io/badge/-@arisonfirmino-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
-<a href="https://arisonfirmino.github.io/reactfolio"><img src="https://img.shields.io/badge/-PORTFOLIO ONLINE-21222c?logo=proton&logoColor=white&style=for-the-badge" /></a>
-<a href="mailto:arisonfirmino.dev@gmail.com"><img src="https://img.shields.io/badge/-arisonfirmino.dev@gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-
-</div>
-
 ## 🛠️ Tech Stack
 
 #### 💻 Front-End:
@@ -21,8 +13,10 @@
 
 #### ⚙️ Back-End and Database:
 
-![NodeJS](https://img.shields.io/badge/-NODEJS-21222c?logo=nodedotjs&logoColor=339933&style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/-NODE.JS-21222c?logo=nodedotjs&logoColor=339933&style=for-the-badge)
+![NestJS](https://img.shields.io/badge/-NEST.JS-21222c?logo=nestjs&logoColor=E0234E&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MONGODB-21222c?logo=mongodb&logoColor=47A248&style=for-the-badge)
+![Supabase](https://img.shields.io/badge/-SUPABASE-21222c?logo=supabase&logoColor=3FCF8E&style=for-the-badge)
 
 <hr />
 

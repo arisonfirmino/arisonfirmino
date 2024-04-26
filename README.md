@@ -4,19 +4,18 @@
 
 #### 💻 Front-End:
 
-![HTML](https://img.shields.io/badge/-HTML-21222c?logo=html5&logoColor=E34F26&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS-21222c?logo=css3&logoColor=1572B6&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-21222c?logo=javascript&logoColor=F7DF1E&style=for-the-badge)
-![React](https://img.shields.io/badge/-REACT-21222c?logo=react&logoColor=61DAFB&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-21222c?logo=typescript&logoColor=3178C6&style=for-the-badge)
-![Next JS](https://img.shields.io/badge/-NEXT.JS-21222c?logo=nextdotjs&logoColor=000000&style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML-151515?logo=html5&logoColor=E34F26&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS-151515?logo=css3&logoColor=1572B6&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-151515?logo=javascript&logoColor=F7DF1E&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-151515?logo=typescript&logoColor=3178C6&style=for-the-badge)
+![React](https://img.shields.io/badge/-REACT-151515?logo=react&logoColor=61DAFB&style=for-the-badge)
 
 #### ⚙️ Back-End and Database:
 
-![NodeJS](https://img.shields.io/badge/-NODE.JS-21222c?logo=nodedotjs&logoColor=339933&style=for-the-badge)
-![NestJS](https://img.shields.io/badge/-NEST.JS-21222c?logo=nestjs&logoColor=E0234E&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MONGODB-21222c?logo=mongodb&logoColor=47A248&style=for-the-badge)
-![Supabase](https://img.shields.io/badge/-SUPABASE-21222c?logo=supabase&logoColor=3FCF8E&style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/-Node.js-151515?logo=nodedotjs&logoColor=339933&style=for-the-badge)
+![NestJS](https://img.shields.io/badge/-Nest.js-151515?logo=nestjs&logoColor=E0234E&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-151515?logo=mongodb&logoColor=47A248&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-151515?logo=postgresql&logoColor=4169E1&style=for-the-badge)
 
 <hr />
 

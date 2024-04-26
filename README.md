@@ -20,6 +20,6 @@
 
 <hr />
 
-<img align="left" height="170em" src="https://github-readme-stats.vercel.app/api?username=arisonfirmino&show_icons=true&theme=dracula"/>
+<img align="left" height="170em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=151515"/>
 
-<img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisonfirmino&layout=compact&langs_count=16&theme=dracula"/>
+<img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisonfirmino&layout=compact&langs_count=16&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=151515"/>
